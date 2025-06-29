@@ -2,3 +2,7 @@
 	path = common
 	url = https://github.com/fteamkr/git-submodule-common.git
 	branch = dev
+[submodule "buildSrc"]
+	path = buildSrc
+	url = https://github.com/fteamkr/git-submodule-build-logic.git
+	branch = dev
